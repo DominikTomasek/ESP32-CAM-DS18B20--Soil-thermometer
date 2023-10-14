@@ -49,6 +49,7 @@ Device final form:
 ![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/e0df92ab-f6b7-4e6f-b42b-e0bb42b87da7)
 
 SOURCE:
+
 [1] https://randomnerdtutorials.com/esp32-ds18b20-temperature-arduino-ide/
 
 [2] https://randomnerdtutorials.com/esp8266-nodemcu-thingspeak-publish-arduino/
