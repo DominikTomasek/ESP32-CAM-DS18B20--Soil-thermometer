@@ -12,8 +12,8 @@ The wiring of the Arduino UnO and ESP32 - CAM is as follows, first thing we need
 ![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/fc1a4b0c-7fc8-4bbc-81e9-e0854fb92263)
 
 DS18B20 wire connections:
-![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/43f22e73-4a1d-4c7a-8541-307bdcf95479)
-![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/61f8be7d-7842-4590-891d-d15e26b37f79)
+![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/43f22e73-4a1d-4c7a-8541-307bdcf95479) ![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/61f8be7d-7842-4590-891d-d15e26b37f79)
+
 ![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/eb0f4f17-4eeb-436c-9773-cb220823616c)
 
 
