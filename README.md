@@ -45,6 +45,7 @@ DS18B20 wire connections:
 10. AC/DC adapter 12V / 0,5A
 
 Device final form:
+
 ![image](https://github.com/DominikTomasek/ESP32-CAM-DS18B20--Soil-thermometer/assets/55549002/e0df92ab-f6b7-4e6f-b42b-e0bb42b87da7)
 
 SOURCE:
